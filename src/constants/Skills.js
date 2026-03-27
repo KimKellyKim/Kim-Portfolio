@@ -1,0 +1,20 @@
+export const SKILLS = {
+  Frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "JavaScript",
+    "Tailwind",
+    "Bootstrap",
+    "ShadcnUI",
+    "HeroUI",
+    "CSS3",
+    "HTML",
+  ],
+  Backend: ["Node.js", "PHP", "Python", "C#", "REST API", "JSON"],
+  Database: ["PostgreSQL", "MySQL", "SQL"],
+  "Game Dev": ["GDScript", "Godot Engine", "Blender"],
+  Design: ["Figma", "Adobe Illustrator", "Canva"],
+  DevOps: ["Git", "GitHub", "GitLab"],
+  Media: ["Filmora", "CapCut", "FL Studio", "LMMS", "Audacity"],
+};
