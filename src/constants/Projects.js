@@ -22,7 +22,7 @@ export const PROJECTS = [
     ],
     emoji: "⚔️",
     featured: true,
-    images: ["/public/assets/Tribes.png"],
+    images: ["/assets/Tribes.png"],
   },
   {
     id: "bisdakids",
@@ -47,10 +47,10 @@ export const PROJECTS = [
     emoji: "🎮",
     featured: true,
     images: [
-      "/public/assets/BMain.png",
-      "/public/assets/B2.png",
-      "/public/assets/B3.png",
-      "/public/assets/B1.png",
+      "/assets/BMain.png",
+      "/assets/B2.png",
+      "/assets/B3.png",
+      "/assets/B1.png",
     ],
   },
   {
@@ -90,12 +90,12 @@ export const PROJECTS = [
     emoji: "🪦",
     featured: true,
     images: [
-      "/public/assets/C1.png",
-      "/public/assets/C2.png",
-      "/public/assets/C3.png",
-      "/public/assets/C4.png",
-      "/public/assets/C5.png",
-      "/public/assets/C6.png",
+      "/assets/C1.png",
+      "/assets/C2.png",
+      "/assets/C3.png",
+      "/assets/C4.png",
+      "/assets/C5.png",
+      "/assets/C6.png",
     ],
   },
   {
@@ -116,9 +116,9 @@ export const PROJECTS = [
     emoji: "📡",
     featured: false,
     images: [
-      "/public/assets/RFID1.jpg",
-      "/public/assets/RFID3.png",
-      "/public/assets/RFID2.png",
+      "/assets/RFID1.jpg",
+      "/assets/RFID3.png",
+      "/assets/RFID2.png",
     ],
   },
   {
@@ -156,6 +156,6 @@ export const PROJECTS = [
     ],
     emoji: "💌",
     featured: false,
-    images: ["/public/assets/V1.png", "/public/assets/V2.png"],
+    images: ["/assets/V1.png", "/assets/V2.png"],
   },
 ];
